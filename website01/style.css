@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+header {
+    text-align: center;
+    margin: 7px;
+    overflow: hidden;
+    background-color: #dfe6e9;
+}
+footer {
+    text-align: center;
+    margin: 7px;
+    overflow: hidden;
+    background-color: #dfe6e9;
+}
+hr {
+    border-top: 1px dotted #6c5ce7;
+  }
+h1 {
+    text-align: center;
+    color: #16a085;
+}
+header h1 {
+    color: indigo;
+}
+H3 {
+    color: #00b894;
+}
+p {
+    color: #636e72;
+}
+img {
+    width: 60%;
+}
+  
+.left {
+    width: 25%;
+    float: left;
+    padding-left: 5%;
+}
+.right {
+    width: 55%;
+    overflow: hidden;
+    padding-left: 5%;
+}

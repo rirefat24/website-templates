@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }  
+  li {
+    float: right;
+  }  
+  li img {
+      width: 30%;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }  
+  li a:hover {
+    background-color: #111;
+  }
+.top {    
+    background-image: url(images/12.jpeg);
+    background-repeat: no-repeat;
+    opacity: 0.8;    
+    min-height: 650px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+button {
+    background-color: #2980b9;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .btn {
+      text-align: center;
+  }
+  .middle img {
+      width: 100%;
+  }
+  .left {
+    width: 55%;
+    float: left;
+    padding-left: 5%;
+}
+.right {
+    width: 25%;
+    overflow: hidden;
+    padding-left: 5%;
+}
+.blue {
+    color: royalblue;
+}
+.bottomLeft img {
+    width: 50%;
+}
+.bottomLeft {
+    width: 55%;
+    float: left;
+    padding-left: 5%;
+}  
+.bottomRight {
+    width: 25%;
+    overflow: hidden;
+    padding-left: 5%;
+}
+.bottom {
+    color: white;
+    overflow: hidden;
+    background-image: url(images/bottom-bg.png);
+}
+footer {
+    text-align: center;
+    margin: 7px;
+    overflow: hidden;
+    background-color: #dfe6e9;
+}
